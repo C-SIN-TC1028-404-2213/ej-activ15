@@ -2,7 +2,7 @@ def main():
     #escribe tu código abajo de esta línea
     
     suma = 0
-    n = 0
+    n = 1
 
     while (n != 0):
         n = int(input("Dame un número:"))
